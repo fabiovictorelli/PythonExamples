@@ -4,7 +4,7 @@
 
 import random
 Star = "*"
-SizeOfField = 12
+SizeOfField = 5
 
 
 def printstar(position):
