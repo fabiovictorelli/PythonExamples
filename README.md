@@ -1,12 +1,11 @@
 # PythonExamples
- Examples of Pythons code
- 
 
-Dolar.py            Show Brazilian Reais exchange today from 3 different sites
+Lots Examples of Pythons code.
 
-fibonacy.py         Show the Fibonacci sequence until 1000
-jogo-megamillions   Show 10 random suggestions for MegaMillions lottery
-kaprecar.py         Show the Kaprecar Constant
 
-linkedin-exercicios Folder with samples of Linkedin Python Course
+- Dolar.py            Show Brazilian Reais exchange today from 3 different sites
+- fibonacy.py         Show the Fibonacci sequence until 1000
+- jogo-megamillions   Show 10 random suggestions for MegaMillions lottery
+- kaprecar.py         Show the Kaprecar Constant
 
+- Licença: [GPL-2.0-only](https://spdx.org/licenses/GPL-2.0-only.html)
