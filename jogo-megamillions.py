@@ -1,4 +1,6 @@
 # Mega Millions Games for Brazilian Currency
+# fabiovictorelli@gmail.com
+# Mon Aug 19 08:10:22 EDT 2022
 
 import random
 custojogo = 2

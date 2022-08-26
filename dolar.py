@@ -1,3 +1,8 @@
+# Show Exchange Dollar vs Brazilian Reais of today rate from 3 sites
+# fabiovictorelli@gmail.com
+# Mon Aug 23 11:33:21 EDT 2022
+
+
 """
  Here we are getting the Currency Exchange USD to BRL (Dollar to Real Brazil)
 """
